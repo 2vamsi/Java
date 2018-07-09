@@ -1,4 +1,4 @@
-package classObject20;
+package a_classObject20;
 
 
 /*Class: - When we say class it represents generic term through which we can indicate

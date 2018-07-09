@@ -1,4 +1,4 @@
-package classObject20;
+package a_classObject20;
 
 public class Example2 {
 
@@ -9,6 +9,7 @@ public class Example2 {
 	
 	public static void main(String[] args) {
 		
+		// creating an object
 		Example2 s1 = new Example2();
 		
 		// calling the variable of the class, using object
