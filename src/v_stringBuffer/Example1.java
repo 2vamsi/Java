@@ -3,6 +3,12 @@ package v_stringBuffer;
 /*
  * String Buffer is used to create Mutable String, which means we can modify the String once it is created. 
  * The StringBuffer class in java is same as String class except it is mutable i.e. it can be changed.
+ *
+ * Also, string Buffer is faster than String ( as String creates a new instance for every new
+ * concat) 
+ *
+ *
+ *
  */
 public class Example1 {
 
