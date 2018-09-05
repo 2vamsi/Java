@@ -19,8 +19,9 @@ package e_constructorInJava2223;
  * constructor in class.
  * 
  * 
- * There are 2 types of Constructors a. Default Constructor ( No arg
- * Constructor) b. Parameterized Constructor
+ * There are 2 types of Constructors 
+ * a. Default Constructor ( No arg Constructor) 
+ * b. Parameterized Constructor
  *
  * 
  */

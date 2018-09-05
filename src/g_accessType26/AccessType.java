@@ -6,14 +6,15 @@ package g_accessType26;
  * @author vamsi.dadi
  *
  * *         We have four types of Access Modifiers 
- *        	 1. Private 2. Public 3. Protected 4. Default 
+ *        	 1. Public 		2. Private 		3. Protected 		4. Default 
  *         
  *   Access Level of each type :
- *     Access Type 	Within Class    	Outside Class 	Within Same Package 	Outside Package
- *     Public 		Yes 				Yes 			Yes 					Yes 
- *     Private 		yes 				No 				No 						No 
- *     Protected    yes 				Yes 			Yes 					Yes(Through Inheritance) 
- *     Default 		yes 				Yes 			Yes 					No (even through inheritance)
+ *     Access Type 	Within Class    	Outside Class 					Outside Package 				Outside Package
+ *     												(Within Same Package) 	without Inheritance			with Inheritance 
+ *     Public 			Yes 					Yes 								Yes 								Yes 
+ *     Private 			yes 					No 								No 								No 
+ *     Protected    	yes 					Yes 								No 								Yes(Through Inheritance) 
+ *     Default 			yes 					Yes 								No 								No (even through inheritance)
  * 
  */
 public class AccessType {

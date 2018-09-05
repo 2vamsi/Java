@@ -16,10 +16,8 @@ public class Example1 {
 	static String mystr;
 	
 	static {
-		
 		num = 97;
 		mystr = "Static keyword in Java";
-	
 	}
 	
 	public static void main(String[] args) {

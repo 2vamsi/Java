@@ -9,7 +9,7 @@ will provide super() calling statement as first line of child constructor.
 public class J extends I {
 	
 	J() {
-		//here java compiler will keep super() by default when we do not write
+		//here java compiler will keep super() by default when we do not write.
 		System.out.println("J");
 	}
 

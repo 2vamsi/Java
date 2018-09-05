@@ -6,8 +6,7 @@ package f_returnTypeInJava25;
  * 
  * In Java, we can not write a method without a return type
  * 
- * Even though method is not returning anything, we need to mention the return
- * type as void
+ * Even though method is not returning anything, we need to mention the return type as void
  *
  */
 public class ReturnTypeInJava {

@@ -10,11 +10,11 @@ import g_accessType26.AccessType;
  * we can not access private and default members
  *
  */
-public class TestAccessTypeFromDifferentPackage extends AccessType {
+public class TestAccessTypeFromDifferentPackage2 extends AccessType {
  
 	public static void main(String[] args) {
 		
-		TestAccessTypeFromDifferentPackage obj = new TestAccessTypeFromDifferentPackage();
+		TestAccessTypeFromDifferentPackage2 obj = new TestAccessTypeFromDifferentPackage2();
 		obj.test1();
 		obj.test3();
 		// obj.test2(); compile time error

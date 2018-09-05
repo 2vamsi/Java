@@ -20,5 +20,8 @@ public class Example7_capacity {
 		
 		sb.append("Java Supports multiple OS");
 		System.out.println(sb.capacity()); //34
+		
+		sb.append("Java Supports multiple OS");
+		System.out.println(sb.capacity()); //70
 	}
 }
